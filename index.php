@@ -54,7 +54,7 @@
 <body>
 <div class="title">
     <h1>ЛАБОРАТОРНЫЕ РАБОТЫ</h1>
-    <h3>Выполнил: [ТВОЁ ФИО]</h3>
+    <h3>Выполнил: Степанян Константин</h3>
 </div>
 <div class="hello-block">
     <div class="hello1"><?php echo "HELLO WORLD!"; ?></div>
@@ -68,6 +68,7 @@
     <a href="labwork2/lab2.php" class="btn">Лабораторная работа №2</a>
     <a href="labwork3/lab3.php" class="btn">Лабораторная работа №3</a>
     <a href="labwork4/lab4.php" class="btn">Лабораторная работа №4</a>
+    <a href="labwork5/lab5.php" class="btn">Лабораторная работа №5</a>
 </div>
 </body>
 </html>
