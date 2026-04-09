@@ -1,4 +1,15 @@
 <!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Лабораторные работы</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f5f7fa;
+        }
+
         .title {
             text-align: center;
             padding: 30px;
@@ -9,11 +20,6 @@
         .title h1 {
             color: #2c3e50;
             margin-bottom: 10px;
-        }
-
-        .title h3 {
-            color: #555;
-            font-weight: normal;
         }
 
         .hello-block {
@@ -63,7 +69,7 @@
 
 <div class="title">
     <h1>ЛАБОРАТОРНЫЕ РАБОТЫ</h1>
-    <h3>Выполнил: Степанян Константин</h3>
+    <h3>Выполнил: [ТВОЁ ФИО]</h3>
 </div>
 
 <div class="hello-block">
@@ -76,6 +82,7 @@
 
 <div class="menu">
     <a href="labwork1/lab1.php" class="btn">Лабораторная работа №1</a>
+    <a href="labwork2/lab2.php" class="btn">Лабораторная работа №2</a>
 </div>
 
 </body>
