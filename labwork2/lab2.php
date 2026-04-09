@@ -88,8 +88,4 @@
         ?>
     </div>
 
-    <a href="../index.php">Вернуться на главную</a>
-</div>
-
-</body>
 </html>
