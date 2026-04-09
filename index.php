@@ -67,6 +67,7 @@
     <a href="labwork1/lab1.php" class="btn">Лабораторная работа №1</a>
     <a href="labwork2/lab2.php" class="btn">Лабораторная работа №2</a>
     <a href="labwork3/lab3.php" class="btn">Лабораторная работа №3</a>
+    <a href="labwork4/lab4.php" class="btn">Лабораторная работа №4</a>
 </div>
 </body>
 </html>
